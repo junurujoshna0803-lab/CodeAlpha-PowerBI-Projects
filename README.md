@@ -1,15 +1,15 @@
-# 📊 CodeAlpha Power BI Projects
+# 📊 Power BI Projects
 
-Welcome to my **CodeAlpha Power BI Projects** repository!
+Welcome to my **Power BI Projects** repository!
 
-This repository contains three interactive Power BI dashboard projects developed as part of my **CodeAlpha Power BI Internship**. These dashboards demonstrate my ability to transform raw data into meaningful business insights using Microsoft Power BI and Microsoft Excel.
+This repository contains three interactive Power BI dashboard projects developed as part of my **Power BI Internship**. These dashboards demonstrate my ability to transform raw data into meaningful business insights using Microsoft Power BI and Microsoft Excel.
 
 ---
 
 # 📂 Repository Structure
 
 ```
-CodeAlpha-PowerBI-Projects
+PowerBI-Projects
 │
 ├── README.md
 │
@@ -147,9 +147,6 @@ A dashboard that analyzes student attendance, academic performance, and class-wi
 
 **Joshna Junuru**
 
----
-
-⭐ Thank you for visiting my repository! Your feedback is always appreciated.
 ---
 
 ⭐ Thank you for visiting my repository! Your feedback is always appreciated.
